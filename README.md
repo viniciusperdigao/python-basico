@@ -1,6 +1,6 @@
 # Curso de Python Básico.
 
-Este repositório tem como objetivo guardar um notebook com conteúdo produzido durante meus estudos de Python.
+Este repositório tem como objetivo guardar um notebook com conteúdo produzido durante meus estudos de Python. Este material também é utilizado para ensinar e ajudar as pessoas que estão iniciando seus estudos em python.
 
 ### Tópicos Abordados.
 
